@@ -125,7 +125,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111repo=airbnb-clone)](https://github.com/mocy111/airbnb-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=airbnb-clone)](https://github.com/mocy111/airbnb-clone)
 
 <Br>
 <hr>
