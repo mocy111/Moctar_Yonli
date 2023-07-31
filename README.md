@@ -18,27 +18,28 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
-</div>
+</div> -->
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 👋 Hello there! I'm [Moctar Yonli](https://github.com/mocy111/), a passionate full-stack web developer with a knack for building innovative web applications.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 Currently, I'm primarily working with technologies like **React.js, Next.js, Node.js, JavaScript, and TypeScript**.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🌱 I always enjoy diving deep into new technologies and exploring ways to create scalable and performant applications.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💼 I have hands-on experience in end-to-end web development, from front-end to back-end, using modern frameworks.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Feel free to reach out to me for discussions on **React.js, Next.js, Node.js, JavaScript, TypeScript**, or any other web development-related topic.
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 You can get in touch with me via email at [moctaryonli@gmail.com](mailto:moctaryonli@gmail.com) for any inquiries or collaboration opportunities.
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Besides coding, I love contributing to open-source projects and actively engage in various developer communities.
+
 <!--Intro end-->
 
 
@@ -86,7 +87,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,wordpress,docker,express,firebase,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,bash,electron,,vscode&perline=14" />
   </a>
 </p>
 
@@ -101,12 +102,21 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/moctar-yonli-b4955a203/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/moctar_yonli" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/moctaryonli/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://www.facebook.com/moctar.yonli.5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://moctar-yonli.netlify.app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <a href="https://www.linkedin.com/in/moctar-yonli-b4955a203/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://twitter.com/moctar_yonli" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+  </a> 
+  <a href="https://www.instagram.com/moctaryonli/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+  </a>
+  <a href="https://www.facebook.com/moctar.yonli.5" target="_blank">
+    <img align="center" src="https://github.com/mocy111/Moctar_Yonli/blob/9b543223c69dd53171ba883d80d1f6d2755c5106/logo%20facebook.jpg" alt="facebook" height="50" width="50" />
+  </a>
+  <a href="https://moctar-yonli.netlify.app" target="_blank">
+  <img align="center" src="https://github.com/mocy111/Moctar_Yonli/blob/51220666e047cd738344f63d1c2295ee0e4a57df/portfolio.png" alt="portfolio moctar yonli" height="50" width="50" />
+  </a>
 </p>
 
 
@@ -120,9 +130,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<h1>Some of my Projects! 🎨</h1>
+<h1>Some of my Projects! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 🎨 </h1>
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=airbnb-clone)](https://github.com/mocy111/airbnb-clone)
