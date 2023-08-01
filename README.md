@@ -87,7 +87,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,wordpress,docker,express,firebase,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,bash,electron,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,wordpress,docker,express,firebase,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,bash,electron&perline=12" />
   </a>
 </p>
 
@@ -134,15 +134,34 @@
 <h1>Some of my Projects! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 🎨 </h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=airbnb-clone)](https://github.com/mocy111/airbnb-clone)
+<!-- Ajoutez une div pour créer une grille à deux colonnes -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=time-tracking)](https://github.com/mocy111/time-tracking)
+  <!-- Première paire de cartes -->
+  <div>
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=airbnb-clone)](https://github.com/mocy111/airbnb-clone)
+  </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=shoping_cart)](https://github.com/mocy111/shoping_cart)
+  <div>
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=time-tracking)](https://github.com/mocy111/time-tracking)
+  </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Carbon_Emission)](https://github.com/mocy111/Carbon_Emission)
+  <!-- Deuxième paire de cartes -->
+  <div>
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=shoping_cart)](https://github.com/mocy111/shoping_cart)
+  </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Wikipedia-search)](https://github.com/mocy111/Wikipedia-search)
+  <div>
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Carbon_Emission)](https://github.com/mocy111/Carbon_Emission)
+  </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=todo-app)](https://github.com/mocy111/todo-app)
+  <!-- Troisième paire de cartes -->
+  <div>
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Wikipedia-search)](https://github.com/mocy111/Wikipedia-search)
+  </div>
 
+  <div>
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=todo-app)](https://github.com/mocy111/todo-app)
+  </div>
+
+</div>
