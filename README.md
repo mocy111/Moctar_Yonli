@@ -138,30 +138,30 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
   <!-- Première paire de cartes -->
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=airbnb-clone)](https://github.com/mocy111/airbnb-clone)
-  </div>
+  <a href="https://github.com/mocy111/airbnb-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=airbnb-clone" alt="ReadMe Card">
+  </a>
 
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=time-tracking)](https://github.com/mocy111/time-tracking)
-  </div>
+  <a href="https://github.com/mocy111/time-tracking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=time-tracking" alt="ReadMe Card">
+  </a>
 
   <!-- Deuxième paire de cartes -->
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=shoping_cart)](https://github.com/mocy111/shoping_cart)
-  </div>
+  <a href="https://github.com/mocy111/shoping_cart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=shoping_cart" alt="ReadMe Card">
+  </a>
 
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Carbon_Emission)](https://github.com/mocy111/Carbon_Emission)
-  </div>
+  <a href="https://github.com/mocy111/Carbon_Emission">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Carbon_Emission" alt="ReadMe Card">
+  </a>
 
   <!-- Troisième paire de cartes -->
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Wikipedia-search)](https://github.com/mocy111/Wikipedia-search)
-  </div>
+  <a href="https://github.com/mocy111/Wikipedia-search">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Wikipedia-search" alt="ReadMe Card">
+  </a>
 
-  <div>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=todo-app)](https://github.com/mocy111/todo-app)
-  </div>
+  <a href="https://github.com/mocy111/todo-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=todo-app" alt="ReadMe Card">
+  </a>
 
 </div>
