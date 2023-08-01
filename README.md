@@ -87,7 +87,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,wordpress,docker,express,firebase,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,bash,electron,,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,wordpress,docker,express,firebase,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,bash,electron,vscode&perline=12" />
   </a>
 </p>
 
@@ -136,10 +136,13 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=airbnb-clone)](https://github.com/mocy111/airbnb-clone)
 
-<Br>
-<hr>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=time-tracking)](https://github.com/mocy111/time-tracking)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=shoping_cart)](https://github.com/mocy111/shoping_cart)
 
-----------------------------------------------------------------------
-Credit: [mocy111](https://github.com/mocy111)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Carbon_Emission)](https://github.com/mocy111/Carbon_Emission)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=Wikipedia-search)](https://github.com/mocy111/Wikipedia-search)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mocy111&repo=todo-app)](https://github.com/mocy111/todo-app)
 
